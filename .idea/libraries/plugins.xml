@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="plugins">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/DateChooser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/ucanaccess-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/itextpdf-5.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/jackcess-2.1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/JPanelSlider.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/hsqldb-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/commons-lang-2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
